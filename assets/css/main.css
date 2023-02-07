@@ -116,7 +116,8 @@ table {
 }
 
 body {
-	-webkit-text-size-adjust: none;
+	-webkit-text-size-adjust: auto;
+	text-size-adjust: auto;
 }
 
 mark {
